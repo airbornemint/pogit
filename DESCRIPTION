@@ -15,7 +15,7 @@ Depends: R(>= 2.10.0)
 Imports: ggplot2, logistf, plyr, stats, utils, grDevices
 LazyData: true
 Suggests: COUNT
-RoxygenNote: 5.0.1
+RoxygenNote: 6.1.1
 NeedsCompilation: no
 Packaged: 2016-04-06 16:34:40 UTC; michi
 Repository: CRAN
