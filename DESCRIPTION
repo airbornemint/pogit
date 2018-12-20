@@ -8,8 +8,9 @@ Authors@R: c(person("Michaela", "Dvorzak", role = "aut",
   person("Helga", "Wagner", role = "aut"),
   person("Ben", "Artin", role=c("cre", "ctb"), email="ben@artins.org"))
 Description: Bayesian variable selection for regression models of under-reported
-    count data as well as for (overdispersed) Poisson, negative binomal and
-    binomial logit regression models using spike and slab priors.
+    count data as well as for (overdispersed) Poisson, negative binomial and
+    binomial logit regression models using spike and slab priors. 
+    Dvorzak, M., & Wagner, H. (2016) <doi:10.1177/1471082X15588398>
 License: GPL-2
 Depends: R(>= 2.10.0)
 Imports: ggplot2, logistf, plyr, stats, utils, grDevices
