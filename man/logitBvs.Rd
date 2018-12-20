@@ -197,7 +197,7 @@ Fussl, A., Fruehwirth-Schnatter, S. and Fruehwirth, R. (2013).
 
 Fussl, A. (2014). \code{binomlogit}: Efficient MCMC for Binomial 
   Logit Models. R package version 1.2, 
-  \url{http://CRAN.R-project.org/package=binomlogit}.
+  \url{https://CRAN.R-project.org/package=binomlogit}.
 
 Wagner, H. and Duller, C. (2012). Bayesian model selection for 
   logistic regression models with random intercept. \emph{Computational 
