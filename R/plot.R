@@ -29,6 +29,7 @@
 #' @import stats
 #' @import utils
 #' @import grDevices
+#' @method plot pogit
 #' @export
 #' 
 #' @examples
